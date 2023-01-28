@@ -1,6 +1,6 @@
 <h1>Clone of Ajio.com</h1>
 <h2>My First Project:</h2>
-Hello, My name is Adil khan. I am the student of Masai School. Currently I am in unit 4. This blog is all about my first project. We have worked in a team of 5 members. My team members are Adil khan, Basavraj, Prabhudeba, Hakeem.
+Hello, My name is Adil khan. I am the student of Masai School. Currently I am in unit 4. This blog is all about my first project. We have worked in a team of 5 members. My team members are Priya, Basavraj, Prabhudeba, Hakeem.
 
 We have been assigned to clone AJIO- Website.
 
